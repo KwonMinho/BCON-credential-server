@@ -1,0 +1,9 @@
+db: 
+  - https://192.168.0.10:6443
+did-registry:
+  network: 'https://api.baobab.klaytn.net:8651/'
+  did: 'did:kt:971dff7b7b9c57a24463a4fd0cb9b5ad6fcd2219'
+  registry: '0xbCd509F468Fbc017fE615dE0b9cEfAa1Fbf335A6'
+  account-key-path: './res/key-verfier-deployer.json'
+  private-key-path: ''
+  
